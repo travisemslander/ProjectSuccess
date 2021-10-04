@@ -1,0 +1,13 @@
+body {
+  /* remove for top navigation bar */
+  padding-top: 4.5rem;
+
+  /* Show it is fixed to the top */
+  min-height: 50rem;
+
+}
+
+button {
+  background-color: red;
+  color: white;
+}
