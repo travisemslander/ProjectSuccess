@@ -7,7 +7,6 @@ body {
 
 }
 
-button {
-  background-color: red;
-  color: white;
+#hiddenCard {
+  display: none;
 }
